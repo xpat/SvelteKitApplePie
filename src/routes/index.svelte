@@ -1,2 +1,2 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Welcome to Happy Hobbit</h1>
+<p>The hobbit-hole house hunting app rated number one by those looking for a place in shoshoshire</p>
