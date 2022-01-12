@@ -1,5 +1,5 @@
 <h1>Happy Hobbit</h1>
-<p>The numero uno hobbit-hole house hunting app in the Shire</p>
+<p>The numero uno hobbit-hole-swapping app in the Shire</p>
 
 <style>
 
