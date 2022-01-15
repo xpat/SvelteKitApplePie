@@ -1,19 +1,19 @@
-<!-- src/routes/settings/__layout.svelte -->
+<!-- src/routes/settings/compliance/__layout.svelte -->
 
 
-<div class="submenu">
+<div class="sub-sub-menu">
     <ul>
-        <li><a href="/settings/compliance/">Compliance</a>
+        <li>
+            <a href="/settings/compliance/termsofservice">Terms of Service</a>
 </li>
-<li><a href="/settings/profile">Profile</a>
-</li>
-<li><a href="/settings/notifications">Notifications</a>
+        <li>
+<a href="/settings/compliance/privacy-policy">Privacy Policy</a>
 </li>
 </ul>
+
 </div>
 
 <slot></slot>
-
 <style>
 	ul {
 		display: flex;
