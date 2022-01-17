@@ -30,7 +30,6 @@
   },
   "type": "module",
   "dependencies": {
-    "firebase": "^9.6.2",
-    "firebaseui": "^6.0.0"
+    "firebase": "^9.4.1"
   }
 }
